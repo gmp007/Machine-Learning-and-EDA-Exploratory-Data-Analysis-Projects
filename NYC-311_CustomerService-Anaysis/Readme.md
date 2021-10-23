@@ -23,7 +23,7 @@ Perform a service request data analysis of New York City 311 calls. You will foc
 4. Order the complaint types based on the average ‘Request_Closing_Time’, grouping them for different locations.
 5. Perform a statistical test for the following:
 
-**Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.
+**Please note: For the below statements you need to state the Null and Alternate and then provide a statistical test to accept or reject the Null Hypothesis along with the corresponding ‘p-value’.**
 
 - Whether the average response time across complaint types is similar or not (overall)
 - Are the type of complaint or service requested and location related?

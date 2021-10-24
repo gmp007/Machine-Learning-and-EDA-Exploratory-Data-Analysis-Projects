@@ -85,3 +85,6 @@ Perform a service request data analysis of New York City 311 calls. You will foc
 - Latitude	(Number) - Latitude of the location
 - Longitude	(Number) - Longitude of the location
 - Location	(Location) - Coordinates (Latitude, Longitude)
+
+
+## Note, the dataset is too large to be uploaded to Github. Please contact me if you need it and I can send it directly to you.

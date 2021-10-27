@@ -1,0 +1,1 @@
+- Exploratory data analysis to determine the factors that determined the survival of the Titanic passengers
